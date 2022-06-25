@@ -15,10 +15,10 @@
 
 ## Windows `exe` file
 
-    - You will need to ensure that your scientific calculator does not have any errors
-    - You will need to `pip install` the [pyinstaller](https://pyinstaller.org/en/stable/installation.html)
-    - Then you will open your `cmd` by ranning as administrator
-    - Navigate to the folder where you have your `script scinetific calculator`
-    - You will need to ran `pyinstaller --onefile <name of your scientific calculator script>
-    - After a while the `executable` will be created and it will be in the `dist folder`
-    - Now you can ran your `exe` file.
+- You will need to ensure that your scientific calculator does not have any errors
+- You will need to `pip install` the [pyinstaller](https://pyinstaller.org/en/stable/installation.html)
+- Then you will open your `cmd` by ranning as administrator
+- Navigate to the folder where you have your `script scinetific calculator`
+- You will need to ran `pyinstaller --onefile <name of your scientific calculator script>
+- After a while the `executable` will be created and it will be in the `dist folder`
+- Now you can ran your `exe` file.
