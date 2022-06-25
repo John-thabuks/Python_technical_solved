@@ -9,3 +9,14 @@
 - Now let's say that the user wants to perform a `division operation` or he has to do is type in the corresponding number. In this case `3` and hit enter. Next we're asking the user for the `first value` meaning the `numerator` or in plain English the number we want to divide.
 - Let's say `five` after hitting enter. We're asking the user to input the `denominator or the number to divide 5` by let's say `two` immediately after hitting enter once again the result is printed out to the screen `2.5` which is correct.
 - Finally we're asking the user if he would like to go back to the main menu and perform another math operation or simply quit the program if he types in `y` for `yes` then he agrees to return to the `main menu`. Otherwise by typing `n` for `no` the execution of the program ends.
+
+
+# Turn your script to windows executable file
+
+    - You will need to ensure that your scientific calculator does not have any errors
+    - You will need to `pip install` the [pyinstaller](https://pyinstaller.org/en/stable/installation.html)
+    - Then you will open your `cmd` by ranning as administrator
+    - Navigate to the folder where you have your `script scinetific calculator`
+    - You will need to ran `pyinstaller --onefile <name of your scientific calculator script>
+    - After a while the `executable` will be created and it will be in the `dist folder`
+    - Now you can ran your `exe` file.
