@@ -13,8 +13,8 @@
 
 # Turn your script to windows executable file
 
-    ## Windows `exe` file
-    
+## Windows `exe` file
+
     - You will need to ensure that your scientific calculator does not have any errors
     - You will need to `pip install` the [pyinstaller](https://pyinstaller.org/en/stable/installation.html)
     - Then you will open your `cmd` by ranning as administrator
