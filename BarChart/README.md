@@ -9,3 +9,6 @@
 ## Data
 - The data that i will use is from StackOverFlow
 - The data is of most popular programming languages.
+
+
+![plot](Python_technical_solved/BarChart/Images/simple_bar_chart.png)
