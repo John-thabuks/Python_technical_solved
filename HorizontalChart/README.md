@@ -14,4 +14,4 @@
 ![Horizontal_Bar_Chart](./Images/horizontalbar.png)
 
 -Reversed Horizontal bar chart
-![Reversed_Horizontal_Bar_Chart](./Images/reverse_horizontalbar.png)
+![Reversed_Horizontal_Bar_Chart](./Images/reverse_horizontalchart.png)
